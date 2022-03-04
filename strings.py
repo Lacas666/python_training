@@ -30,4 +30,3 @@ print("la" in "alma")
 
 
 
-
